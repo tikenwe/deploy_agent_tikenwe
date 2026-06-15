@@ -124,3 +124,4 @@ fi
 
 echo ""
 echo "Setup complete! Project created at: attendance_tracker_${input}/"
+
