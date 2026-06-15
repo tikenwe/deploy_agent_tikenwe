@@ -22,3 +22,4 @@ While the script is running, press Ctrl+C at any prompt after entering the proje
 - Catch the SIGINT signal
 - Bundle the incomplete project directory into a .tar.gz archive named attendance_tracker_input_archive.tar.gz
 - Delete the incomplete directory to keep the workspace clean
+Video link: (....)
